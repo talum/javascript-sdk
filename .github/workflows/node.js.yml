@@ -10,7 +10,7 @@ on:
     branches: [ dev ]
 
 jobs:
-  build:
+  node-build:
 
     runs-on: ubuntu-latest
 
