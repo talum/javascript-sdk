@@ -7,7 +7,7 @@ trigger:
 - dev
 
 pool:
-  vmImage: 'ubuntu-latest22'
+  vmImage: 'ubuntu-latest'
 
 steps:
 - task: NodeTool@0
